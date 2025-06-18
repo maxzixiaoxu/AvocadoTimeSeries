@@ -14,4 +14,4 @@ A baseline model is created that uses the most recent past timepoint as the pred
 Ridge and RandomForestRegressor approaches are examined.
 
 ## Testing the model
-The model is tested on $ \mathbb{R}^ 2 $ score. 
+The model is tested on $R^2$ score. 
