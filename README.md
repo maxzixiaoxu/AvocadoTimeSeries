@@ -4,7 +4,7 @@ Supervised machine learning model for forcasting average avocado price for the n
 
 ## Feature selection and Feature Engineering
 
-EDA is performed and analysis is used to encode, select, and engineer feature. 
+EDA is performed and analysis is used to encode, select, and engineer features. 
 
 ## Preprocessing
 Preprocessor transformer includes pipelines with Imputer, Scaler, OHE, PolynomialFeatures.
