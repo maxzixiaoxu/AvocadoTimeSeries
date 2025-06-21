@@ -9,7 +9,7 @@ EDA is performed and analysis is used to encode, select, and engineer features.
 ## Preprocessing
 Preprocessor transformer includes pipelines with Imputer, Scaler, OHE, PolynomialFeatures.
 
-## Machine Learning models
+## Machine Learning Models
 A baseline model is created that uses the most recent past timepoint as the predicted point. 
 Ridge and RandomForestRegressor approaches are examined.
 
